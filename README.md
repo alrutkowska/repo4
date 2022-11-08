@@ -1,6 +1,6 @@
 # nagłówek
 
-Paragraf
+Paragraf 1
 Pragaraf 2
 Paragraf 3
 
