@@ -38,4 +38,6 @@ else:
     print("Błędne dane")
     print("Boki prostokąta muszą być dodatnie")
 ```
+
+Jest sobie tekst `print("hello world")` i kod zagnieżdżony w tekście
 ![zdj/git.jpg](obrazek.webp)
