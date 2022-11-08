@@ -38,3 +38,4 @@ else:
     print("Błędne dane")
     print("Boki prostokąta muszą być dodatnie")
 ```
+![zdj/git.jpg](obrazek.webp)
